@@ -154,25 +154,45 @@
       "id": "tessoku_book_p",
       "label": "A16",
       "title": "Dungeon 1（※初版第 1 刷の B22 も同じ問題です）",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p",
+      "directory": {
+        "path": "a16",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_q",
       "label": "A17",
       "title": "Dungeon 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_q"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_q",
+      "directory": {
+        "path": "a17",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_r",
       "label": "A18",
       "title": "Subset Sum",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_r"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_r",
+      "directory": {
+        "path": "a18",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_s",
       "label": "A19",
       "title": "Knapsack 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_s"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_s",
+      "directory": {
+        "path": "a19",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_t",
@@ -646,25 +666,45 @@
       "id": "dp_a",
       "label": "B16",
       "title": "Frog 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/dp_a"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/dp_a",
+      "directory": {
+        "path": "b16",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_cp",
       "label": "B17",
       "title": "Frog 1 with Restoration",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cp"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cp",
+      "directory": {
+        "path": "b17",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_cq",
       "label": "B18",
       "title": "Subset Sum with Restoration",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cq"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cq",
+      "directory": {
+        "path": "b18",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_cr",
       "label": "B19",
       "title": "Knapsack 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cr"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cr",
+      "directory": {
+        "path": "b19",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_cs",
