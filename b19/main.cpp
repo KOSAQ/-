@@ -4,6 +4,7 @@ using namespace std;
 #define rep2(i, s, n) for (int i = (s); i <= (int)(n); i++)
 
 int main(void){
+    
 
     return 0;
 }
