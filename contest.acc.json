@@ -372,7 +372,12 @@
       "id": "tessoku_book_ay",
       "label": "A51",
       "title": "Stack",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ay"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ay",
+      "directory": {
+        "path": "a51",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_az",
@@ -848,7 +853,12 @@
       "id": "tessoku_book_dx",
       "label": "B51",
       "title": "Bracket",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dx"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dx",
+      "directory": {
+        "path": "b51",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dy",
